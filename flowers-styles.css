@@ -1,0 +1,19 @@
+body{
+    background-color:#FFEEFE;
+}
+
+p, h1, h2, h3, h4, h5, h6{
+    color:#3D103B ;
+}
+
+.navigation{
+    background-color:#711A54;
+}
+
+.currentPageLink{
+    color:#FF8DF8;
+}
+
+a:hover, a:visited:hover{
+    color:#FF8DF8;
+}
